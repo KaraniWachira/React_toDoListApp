@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screenshot
+![Screenshot from 2023-05-26 13-11-59](https://github.com/KaraniWachira/React_toDoListApp/assets/61309573/c4c1310a-9149-42d9-9a8f-e891f49b70d9)
+
 
 
 ## Available Scripts
